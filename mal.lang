@@ -150,9 +150,11 @@
 			<keyword>sc</keyword>
 			<keyword>abs(\.[sd])?</keyword>
 			<keyword>add(\.[sd])?</keyword>
+			<keyword>addi</keyword>
 			<keyword>addu</keyword>
 			<keyword>addiu</keyword>
 			<keyword>sub(\.[sd])?</keyword>
+			<keyword>subu</keyword>
 			<keyword>mult</keyword>
 			<keyword>multu</keyword>
 			<keyword>mul\.[sd]</keyword>
